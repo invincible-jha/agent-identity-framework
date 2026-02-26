@@ -1,0 +1,38 @@
+# Go
+/go/vendor/
+/go/bin/
+*.test
+*.out
+coverage.html
+
+# TypeScript / Node
+/typescript/node_modules/
+/typescript/dist/
+/typescript/.tsbuildinfo
+
+# Python
+/python/.venv/
+/python/__pycache__/
+/python/src/**/__pycache__/
+/python/src/**/*.pyc
+/python/.pytest_cache/
+/python/dist/
+/python/*.egg-info/
+/python/src/*.egg-info/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets / keys (never commit)
+*.pem
+*.key
+*.p12
+*.pfx
+agent-keys/
