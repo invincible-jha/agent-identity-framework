@@ -1,5 +1,7 @@
 # agent-identity-framework
 
+[![Governance Score](https://img.shields.io/badge/governance-self--assessed-blue)](https://github.com/aumos-ai/agent-identity-framework)
+
 SPIFFE/DID-compatible identity issuance and verification for AI agents.
 
 Part of the [AumOS](https://github.com/aumos-ai) open-source ecosystem — Phase 4, Project 4.4.
